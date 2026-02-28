@@ -420,6 +420,8 @@ def main():
 
     if not tokenizer or not model:
         st.error("⚠️ SYSTEM FAILURE: Core weights unlinked. Missing `tokenizer.pkl`, `lstm_model.h5`, or `max_len.pkl`.", icon="🚨")
+        if isinstance(max_len, str):
+            st.error(f"Detailed Diagnostics: {max_len}")
         return
 
     # --- TOP HUD ---
