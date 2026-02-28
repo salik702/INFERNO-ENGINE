@@ -66,7 +66,8 @@ Whether you're exploring **Recurrent Neural Networks**, experimenting with **gen
 ## 🖼️ Preview
 
 <div align="center">
-  <img width="749" height="407" alt="Inferno ENGINE UI Preview" src="https://github.com/user-attachments/assets/placeholder-image-url.png" />
+ <img width="743" height="376" alt="image" src="https://github.com/user-attachments/assets/691f8055-da04-4a35-8044-801044339610" />
+/>
   <br/>
   <sub><i>✨ Cyber-terminal UI — where Deep Learning meets futuristic design</i></sub>
 </div>
